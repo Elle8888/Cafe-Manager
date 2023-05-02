@@ -47,9 +47,9 @@ The goal of this project is to create a web application that enables cafe manage
 
 ### User Stories
 
-<img src=image/Cafe Manager Trello Board 2023-05-02 at 11.06.49.png/>
+<img src=https://github.com/Elle8888/Cafe-Manager/raw/main/image/Cafe%20Manager%20Trello%20Board%202023-05-02%20at%2011.06.49.png/>
 
 ###  Design
 
-<img src=image/Cafe Manager UML at 11.13.43.png/>
+<img src=https://github.com/Elle8888/Cafe-Manager/raw/main/image/Cafe%20Manager%20UML%20at%2011.13.43.png/>
 
